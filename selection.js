@@ -1,3 +1,5 @@
-function selectionSort() {}
+// Further study
 
-module.exports = selectionSort;
+// function selectionSort() {}
+
+// module.exports = selectionSort;

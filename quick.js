@@ -1,14 +1,15 @@
-/*
-pivot accepts an array, starting index, and ending index
-You can assume the pivot is always the first element
-*/
+// Further study
+// /*
+// pivot accepts an array, starting index, and ending index
+// You can assume the pivot is always the first element
+// */
 
-function pivot(){}
+// function pivot(){}
 
-/*
-quickSort accepts an array, left index, and right index
-*/
+// /*
+// quickSort accepts an array, left index, and right index
+// */
 
-function quickSort() {}
+// function quickSort() {}
 
-module.exports = quickSort;
+// module.exports = quickSort;
