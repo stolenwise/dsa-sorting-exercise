@@ -31,10 +31,6 @@ function merge(arr1, arr2) {
     return results;
 }
     
-    
-
-
-
 function mergeSort(arr) {
     if(arr.length <= 1) return arr;
     const mid = Math.floor(arr.length/2);
